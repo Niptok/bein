@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow] BEIN SPORT TV  [/COLOR]
+
+#EXTM3U
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“LES CHAINE Test”,[COLOR yellow]» » LES CHAINES SPORTS« «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [COLOR blue] ZABI ATEF  [/COLOR]
+ 
+#EXTINF:-1,[COLOR blue][I][B]-------------- Update 27.02.2016 --------------[/B][/I][/COLOR]
+#EXTINF:0, BEIN SPORT 1 HD
+http://live01.pushpublish.tv/mylive/bein1/playlist.m3u8
+#EXTINF:0, BEIN SPORT 2 HD
+http://live01.pushpublish.tv/mylive/bein2/playlist.m3u8
+#EXTINF:0, BEIN SPORT 3 HD
+http://live01.pushpublish.tv/mylive/bein3/playlist.m3u8
+#EXTINF:0, BEIN SPORT 4 HD
+http://live01.pushpublish.tv/mylive/bein4/playlist.m3u8
+#EXTINF:0, BEIN SPORT 5 HD
+http://live01.pushpublish.tv/mylive/bein5/playlist.m3u8
+#EXTINF:0, BEIN SPORT 6 HD
+http://live01.pushpublish.tv/mylive/bein6/playlist.m3u8
+#EXTINF:0, BEIN SPORT 7 HD
+http://live01.pushpublish.tv/mylive/bein7/playlist.m3u8
+#EXTINF:0, BEIN SPORT 8 HD
+http://live01.pushpublish.tv/mylive/bein8/playlist.m3u8
+#EXTINF:0, BEIN SPORT 9 HD
+http://live01.pushpublish.tv/mylive/bein9/playlist.m3u8
+#EXTINF:0, BEIN SPORT 10 HD
+http://live01.pushpublish.tv/mylive/bein10/playlist.m3u8
+#EXTINF:0, BEIN SPORT 11 HD
+http://live01.pushpublish.tv/mylive/bein11/playlist.m3u8
+#EXTINF:0, BEIN SPORT 12 HD
+http://live01.pushpublish.tv/mylive/bein12/playlist.m3u8
+#EXTINF:0, BEIN SPORT 13 HD
+http://live01.pushpublish.tv/mylive/bein13/playlist.m3u8
+#EXTINF:0, BEIN SPORT 14 HD
+http://live01.pushpublish.tv/mylive/bein14/playlist.m3u8
+#EXTINF:0, BEIN SPORT 15 HD
+http://live01.pushpublish.tv/mylive/bein15/playlist.m3u8
+#EXTINF:0, BEIN SPORT 16 HD
+http://live01.pushpublish.tv/mylive/bein16/playlist.m3u8
