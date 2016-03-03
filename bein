@@ -35,3 +35,6 @@ http://live01.pushpublish.tv/mylive/bein14/playlist.m3u8
 http://live01.pushpublish.tv/mylive/bein15/playlist.m3u8
 #EXTINF:0, BEIN SPORT 16 HD
 http://live01.pushpublish.tv/mylive/bein16/playlist.m3u8
+#EXTINF:0, TF 1
+http://opus.cf/livercx/76ec509af81be68724efe9abfc5df141/tf1/index_1300_av-p.m3u8?sd=10&rebase=on
+
