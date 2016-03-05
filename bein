@@ -38,3 +38,123 @@ http://live01.pushpublish.tv/mylive/bein16/playlist.m3u8
 #EXTINF:0, TF 1
 http://opus.cf/livercx/76ec509af81be68724efe9abfc5df141/tf1/index_1300_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1,beINSports 1 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/8.ts
+
+#EXTINF:-1,beINSports 2 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/9.ts
+
+#EXTINF:-1,beINSports 3 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/10.ts
+
+#EXTINF:-1,beINSports 4 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/11.ts
+
+#EXTINF:-1,beINSports 5 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/12.ts
+
+#EXTINF:-1,beINSports 6 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/13.ts
+
+#EXTINF:-1,beINSports 7 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/14.ts
+
+#EXTINF:-1,beINSports 8 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/15.ts
+
+#EXTINF:-1,beINSports 9 HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/16.ts
+
+#EXTINF:-1,beIN SPORTS 13HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/320.ts
+
+#EXTINF:-1,beIN SPORTS 12HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/319.ts
+
+#EXTINF:-1,beIN SPORTS 11HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/318.ts
+
+#EXTINF:-1,beIN SPORTS 10HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/316.ts
+
+#EXTINF:-1,beIN SPORTS 1HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/307.ts
+
+#EXTINF:-1,beIN SPORTS 2HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/308.ts
+
+#EXTINF:-1,beIN SPORTS 3HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/309.ts
+
+#EXTINF:-1,beIN SPORTS 4HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/310.ts
+
+#EXTINF:-1,beIN SPORTS 5HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/311.ts
+
+#EXTINF:-1,beIN SPORTS 6HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/312.ts
+
+#EXTINF:-1,beIN SPORTS 7HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/313.ts
+
+#EXTINF:-1,beIN SPORTS 8HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/314.ts
+
+#EXTINF:-1,beIN SPORTS 9HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/315.ts
+
+
+#EXTINF:-1,beIN SPORTS 14HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/321.ts
+
+#EXTINF:-1,beIN SPORTS 15HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/322.ts
+
+#EXTINF:-1,beIN SPORTS 16HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/323.ts
+
+#EXTINF:-1,beIN SPORTS 17HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/324.ts
+
+#EXTINF:-1,beIN SPORTS t1HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/325.ts
+
+#EXTINF:-1,beIN SPORTS t2HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/326.ts
+
+#EXTINF:-1,beIN SPORTS t3HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/327.ts
+
+#EXTINF:-1,beIN SPORTS t4HD
+
+http://iptvbox.noip.us:9998/live/atik/atik/328.ts
